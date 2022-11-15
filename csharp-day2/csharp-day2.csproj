@@ -6,6 +6,7 @@
     <RootNamespace>csharp_day2</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <StartupObject>csharp_day2.rectanguarArray</StartupObject>
   </PropertyGroup>
 
 </Project>
